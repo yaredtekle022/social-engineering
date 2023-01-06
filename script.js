@@ -19,7 +19,7 @@ function closeMenu() {
 
 naviLink.forEach((n) => n.addEventListener('click', closeMenu));
 
-// for the speakers section
+// for the social engineers section
 
 const speakersData = [{
   imageSrc: './images/frank.jpeg',
