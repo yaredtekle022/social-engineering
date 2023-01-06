@@ -9,13 +9,18 @@
 - js
 - Technologies used
 
-## Live Demo
+<!-- LIVE DEMO -->
 
-Please: [Here]()
+## 🚀 Live Demo <a name="live-demo"></a>
+
+[Live Demo Link](https://yaredtekle022.github.io/social-engineering/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Getting Started
 
-To get a local copy up and run git clone  and follow these steps.
+To get a local copy up and run git clone https://github.com/yaredtekle022/social-engineering  and follow these steps.
 
 ### Open file in the VS code
 
@@ -23,7 +28,7 @@ To get a local copy up and run git clone  and follow these steps.
 
 ## Authors
 
-👤 **yared tekle**
+👤 **Yared Tekle**
 
 - Github: [@githubhandle](https://github.com/yaredtekle022)
 - Twitter: [@twitterhandle](https://twitter.com/YaredTekle22)
