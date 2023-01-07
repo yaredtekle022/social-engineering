@@ -590,12 +590,13 @@ footer > h5 {
   }
 
   .card {
-    background-color: #19181a;
+    background-color: #272a31;
     padding: 1rem 1rem;
     text-align: center;
     display: flex;
     flex-direction: column;
     cursor: default;
+    opacity: 6;
   }
 
   .card span .uil {
