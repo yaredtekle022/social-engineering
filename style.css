@@ -591,7 +591,7 @@ footer > h5 {
 
   .card {
     background-color: #19181a;
-    padding: 3rem 2rem;
+    padding: 1rem 1rem;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -601,12 +601,16 @@ footer > h5 {
   .card span .uil {
     font-size: 1.8rem;
     color: #fff;
+    margin-bottom: 0px;
+    margin-top: 10px;
   }
 
   .card h3 {
     color: rgb(237, 76, 18);
     font-size: 1.3rem;
     font-family: "Lato", sans-serif;
+    margin-bottom: 0px;
+    margin-top: 0px;
   }
 
   .card p {
@@ -614,6 +618,7 @@ footer > h5 {
     font-family: "Lato", sans-serif;
     font-weight: 500;
     font-size: 0.9rem;
+    margin-top: 0px;
   }
 
   .see-program a {
