@@ -68,19 +68,19 @@ const speakersData = [{
 const speakersElement = document.querySelector('.personal-info');
 for (let i = 0; i < speakersData.length; i += 1) {
   speakersElement.innerHTML += `
-  <div class="single">
+  <article class="single">
     <img
       class="img-speaker"
       src="${speakersData[i].imageSrc}"
       alt="${speakersData[i].imageDescription}"
     />
-    <div class="speeches">
+    <article class="speeches">
       <h3 class="speech-title">${speakersData[i].speechTitle}</h3>
       <p class="profesion">${speakersData[i].profession}</p>
       <hr class="pro-break" />
       <p class="quotes">
         ${speakersData[i].quotes}
       </p>
-    </div>
-  </div>`;
+    </article>
+  </article>`;
 }
