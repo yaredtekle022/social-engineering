@@ -577,6 +577,7 @@ footer > h5 {
     align-items: center;
     justify-content: center;
     background-color: rgb(237, 76, 18);
+    margin-left: 270px;
   }
 
   .program-cards {
