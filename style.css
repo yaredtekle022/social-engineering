@@ -602,7 +602,6 @@ footer > h5 {
   .card span .uil {
     font-size: 1.8rem;
     color: #fff;
-    margin-bottom: 0px;
     margin-top: 10px;
   }
 
@@ -610,8 +609,8 @@ footer > h5 {
     color: rgb(237, 76, 18);
     font-size: 1.3rem;
     font-family: "Lato", sans-serif;
-    margin-bottom: 0px;
-    margin-top: 0px;
+    margin-bottom: 0.001px;
+    margin-top: 0.0001px;
   }
 
   .card p {
@@ -619,7 +618,7 @@ footer > h5 {
     font-family: "Lato", sans-serif;
     font-weight: 500;
     font-size: 0.9rem;
-    margin-top: 0px;
+    margin-top: 0.001px;
   }
 
   .see-program a {
