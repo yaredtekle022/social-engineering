@@ -47,7 +47,7 @@ const speakersData = [{
   imageDescription: 'christopher j. hadnagy',
   speechTitle: 'christopher j. hadnagy',
   profession: 'Social engineer',
-  quotes: '“ A social engineer must approach information in much the same way. When finding a target that utilizes many different social media sites, look for the links between them and the information that can create a whole profile.”',
+  quotes: '“ A social engineer must approach information in much the same way. When finding a target that utilizes many different social media sites.”',
 },
 {
   imageSrc: './images/james.jpeg',

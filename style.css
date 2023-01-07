@@ -320,8 +320,8 @@ display: none;
 }
 
 .img-speaker {
-  width: 110px;
-  height: 110px;
+  width: 200px;
+  height: 200px;
   padding: 15px;
 }
 
@@ -369,6 +369,7 @@ display: none;
   gap: 15%;
   margin-left: 15px;
   margin-right: 15px;
+  flex-wrap: wrap;
 }
 
 .partners2 {
@@ -482,8 +483,13 @@ footer > h5 {
   }
 
   .partners-icon {
-    width: 100px;
     transition: all 0.5s ease-in-out;
+    display: inline;
+  }
+
+  .partners-icon2 {
+    transition: all 0.5s ease-in-out;
+    
   }
 
   .hello,
